@@ -124,5 +124,7 @@ void* popFrontLinkedList(struct LinkedList* ll) {
     }
 }
 
-void append(struct LinkedList* ll, struct LinkedList* ll_2) {}
-void splice(struct LinkedList* ll, struct Range range, struct LinkedList* ll_2) {}
+void append(struct LinkedList* ll, struct LinkedList* ll_2) { /* TODO */ }
+void splice(struct LinkedList* ll, struct Range range, struct LinkedList* ll_2) { /* TODO */ }
+
+// TODO - Add other helper functions
